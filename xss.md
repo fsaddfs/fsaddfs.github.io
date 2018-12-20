@@ -1,6 +1,6 @@
-#xss上传之前端检查
+xss上传之前端检查
 ---
-##上传文件
+
 - 前端检查
  ![123](https://github.com/fsaddfs/fsaddfs.github.io/blob/master/JPG/1.png)
 - 发现burp没有抓到数据包，这说明是在前端检查文件后缀名
@@ -14,4 +14,3 @@
 - 再抓包把文件名修改回来![123](https://github.com/fsaddfs/fsaddfs.github.io/blob/master/JPG/6.png)
 - 上传成功![123](https://github.com/fsaddfs/fsaddfs.github.io/blob/master/JPG/7.png)
 - 黑名单判断
-###上传图片
