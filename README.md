@@ -1,3 +1,4 @@
 
 xss
-- [upload-lab之上传常用姿势](http://fsaddfs.github.io/xss.html)
+- [upload-lab1](http://fsaddfs.github.io/xss.html)
+- [upload-lab2](http://fsaddfs.github.io/xss-content.html)
